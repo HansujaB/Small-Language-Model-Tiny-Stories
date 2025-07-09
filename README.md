@@ -1,5 +1,5 @@
 # TinyStories SLM Model Architecture
-This project implements a **small language model (SLM)** inspired by GPT-2, trained from scratch on the TinyStories dataset. The model is designed to generate simple, coherent stories from short prompts.
+This project implements a **small language model (SLM)** inspired by GPT-2, trained from scratch on the TinyStories dataset. The model is designed to generate simple, coherent stories from short prompts especially for 3-4 year olds.
 
 ## Model Architecture
 
